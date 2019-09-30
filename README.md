@@ -1,2 +1,1 @@
-# NewProject
-.
+과제2
